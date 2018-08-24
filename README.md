@@ -12,11 +12,11 @@ El proyecto surge a partir de la dificultad que tienen diferentes medios pequeñ
 
 ### Stack tecnologico
 
-* ### Backend
+* #### Backend
   Laravel 5.5  
   PHP 7.0  
   MySQL  
   ElasticSearch
 
-* ### Frontend
+* #### Frontend
   Angular 6
