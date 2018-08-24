@@ -12,11 +12,16 @@ El proyecto surge a partir de la dificultad que tienen diferentes medios pequeñ
 
 ### Stack tecnologico
 
-* #### Backend
+* #### Backend  
+ 
   Laravel 5.5  
   PHP 7.0  
   MySQL  
   ElasticSearch
-
+  
 * #### Frontend
+
   Angular 6
+  
+Url Backend: https://github.com/sennedjem/cablera-federal-backend  
+Url Frontend: https://github.com/sennedjem/cablera-federal-frontend
