@@ -1,4 +1,9 @@
-# cablera-federal ![Screenshot](logo.png)
+<p align="center">
+ <img src="logo.png" width="100" height="100" />
+</p>
+
+# Cablera Federal
+
 Repositorio principal proyecto Cablera Federal
 
 ### Alumnos:
